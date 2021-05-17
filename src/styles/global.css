@@ -1,0 +1,38 @@
+.body {
+  font-family: 'Poppins', sans-serif;
+  margin: 2rem auto;
+  max-width: 600px;
+  color: dimgrey;
+  font-size: x-large;
+  line-height: 1.4;
+}
+
+.header {
+  margin: 1rem 1rem 0 0;
+  text-align: right;
+}
+
+.icon {
+  margin-right: 32px;
+}
+
+strong {
+  color: #006666;
+}
+
+a {
+  color: #00b3b3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #008080;
+}
+
+svg {
+  fill: darkgrey
+}
+
+svg:hover {
+  fill: dimgrey;
+}
