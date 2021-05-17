@@ -7,13 +7,17 @@
   line-height: 1.4;
 }
 
-.header {
-  margin: 1rem 1rem 0 0;
-  text-align: right;
+.footer {
+  display: flex;
+  justify-content: center;
 }
 
 .icon {
-  margin-right: 32px;
+  margin: 0 16px;
+}
+
+h1 {
+  font-size: xx-large;
 }
 
 strong {
